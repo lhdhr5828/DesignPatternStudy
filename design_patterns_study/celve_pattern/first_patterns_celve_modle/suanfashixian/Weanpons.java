@@ -1,5 +1,5 @@
 package first_patterns_celve_modle.suanfashixian;
-//ÎäÆ÷¹¥»÷½Ó¿Ú
+//æ­¦å™¨æ”»å‡»æ¥å£
 public interface Weanpons {
 	public void useWeanpon();
 	

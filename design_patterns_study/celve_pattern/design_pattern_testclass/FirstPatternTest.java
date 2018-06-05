@@ -9,15 +9,15 @@ import first_patterns_celve_modle.suanfashixian.Sword;
 public class FirstPatternTest {
 
 	public static void main(String[] args) {
-		//´´½¨ÒıÓÃÀàĞÍÊ±£¬´´½¨½Ó¿ÚµÄÒıÓÃÀàĞÍ
+		//åˆ›å»ºå¼•ç”¨ç±»å‹æ—¶ï¼Œåˆ›å»ºæ¥å£çš„å¼•ç”¨ç±»å‹
 		Role yasuo=new Yasuo();
-		//ÀûÓÃÊµÏÖweanpons½Ó¿ÚµÄÀà×÷Îª×é¼şÀ´Íê³ÉÔÚÔËĞĞÆÚ¸Ä±ä
+		//åˆ©ç”¨å®ç°weanponsæ¥å£çš„ç±»ä½œä¸ºç»„ä»¶æ¥å®Œæˆåœ¨è¿è¡ŒæœŸæ”¹å˜
 		yasuo.setWeanpon(new Gun());
 		yasuo.attack();
-		//¸Ä±äÎäÆ÷¹¥»÷
+		//æ”¹å˜æ­¦å™¨æ”»å‡»
 		yasuo.setWeanpon(new Spear());
 		yasuo.attack();
-		//ÔÙ±äÒ»´Î
+		//å†å˜ä¸€æ¬¡
 		yasuo.setWeanpon(new Sword());
 		yasuo.attack();
 	

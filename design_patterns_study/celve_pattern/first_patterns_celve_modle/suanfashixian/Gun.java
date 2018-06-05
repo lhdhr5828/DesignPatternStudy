@@ -3,7 +3,7 @@ package first_patterns_celve_modle.suanfashixian;
 public class Gun implements Weanpons{
 	@Override
 	public void useWeanpon() {
-		System.out.println("使用枪进行攻击！");
+		System.out.println("浣跨敤鏋繘琛屾敾鍑伙紒");
 	}
 
 }

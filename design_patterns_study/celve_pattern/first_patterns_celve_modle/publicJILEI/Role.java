@@ -4,10 +4,10 @@ import java.util.Random;
 
 import first_patterns_celve_modle.suanfashixian.Weanpons;
 
-//一个角色类
+//涓�涓鑹茬被
 public class Role {
 
-	//攻击次数
+	//鏀诲嚮娆℃暟
 	private int count;
 	private Weanpons weanpon; 
 	public void  attack() {

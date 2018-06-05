@@ -1,12 +1,12 @@
 package first_patterns_celve_modle.suanfashixian;
 
-//ÊµÏÖÎäÆ÷¹¥»÷½Ó¿ÚµÄÎäÆ÷Àà
+//å®ç°æ­¦å™¨æ”»å‡»æ¥å£çš„æ­¦å™¨ç±»
 public class Sword implements Weanpons{
 
 	@Override
 	public void useWeanpon() {
-		//¹¥»÷
-		System.out.println("Ê¹ÓÃ½£¹¥»÷");
+		//æ”»å‡»
+		System.out.println("ä½¿ç”¨å‰‘æ”»å‡»");
 	}
 
 }

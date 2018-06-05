@@ -4,7 +4,7 @@ public class Spear implements Weanpons{
 
 	@Override
 	public void useWeanpon(){
-		System.out.println("使用长枪进行攻击!");
+		System.out.println("浣跨敤闀挎灙杩涜鏀诲嚮!");
 	}
 
 }
